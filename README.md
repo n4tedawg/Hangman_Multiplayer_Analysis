@@ -1,0 +1,1 @@
+A notable feature of this script is its statistical analysis component, which presents users with histograms detailing the time taken to guess words and the frequency of incorrect guesses. It also calculates and displays key statistical measures such as the mean, median, and mode of the guesses, providing insights into the gameplay.
